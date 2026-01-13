@@ -33,4 +33,4 @@ Java code example:
     } 
 ```
 
-View it in GitHub you will see it looks good.
+View it in GitHub you will see it looks good.☺️
